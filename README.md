@@ -1,5 +1,5 @@
 # Flappy-Bird-AI
-Using NEAT python library and pygame, AI program learns to play flappy bird 
+Using pygame, numpy, graphviz, matplotlib, and the NEAT python library, AI learns to play flappy bird 
 
 # Features
 AI learns how to play flappy bird, can be done at different speeds based on user preference
